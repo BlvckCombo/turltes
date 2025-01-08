@@ -20,5 +20,5 @@ for i=1,70 do
 turte.forward()
 end
 turtle.up()
-turtle.turnRight
+turtle.turnRight()
 end
