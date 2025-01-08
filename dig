@@ -5,19 +5,19 @@ for i=1,35 do
 		turtle.dig()
 	end
 	turtle.turnRight()
-	turte.forward()
-	turte.turnRight()
+	turtle.forward()
+	turtle.turnRight()
 	for i=1,70 do
 		turtle.forward()
 		turtle.dig()
 	end
 	turtle.turnLeft()
-	turte.forward()
-	turte.turnLeft()
+	turtle.forward()
+	turtle.turnLeft()
 end
 turtle.turnRight()
 for i=1,70 do
-turte.forward()
+turtle.forward()
 end
 turtle.up()
 turtle.turnRight()
