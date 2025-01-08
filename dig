@@ -1,0 +1,24 @@
+for i=1,5 do
+for i=1,35 do
+	for i=1,70 do
+		turtle.forward()
+		turtle.dig()
+	end
+	turtle.turnRight()
+	turte.forward()
+	turte.turnRight()
+	for i=1,70 do
+		turtle.forward()
+		turtle.dig()
+	end
+	turtle.turnLeft()
+	turte.forward()
+	turte.turnLeft()
+end
+turtle.turnRight()
+for i=1,70 do
+turte.forward()
+end
+turtle.up()
+turtle.turnRight
+end
